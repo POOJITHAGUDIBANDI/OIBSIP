@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: DarkGrey;
+}
+
+.title {
+    background-color: LightBlue;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 25px;
+    height: 180px;
+    color: black;
+    box-shadow: -5px -4px 12px black;
+}
+
+.title h1 {
+    text-align: center;
+    margin: 25px 0px 5px 0px;
+    font-size: 45px;
+    padding: 10px;
+    font-family: 'PT Serif', serif;
+}
+
+.title p {
+    text-align: center;
+    margin: -12px 40px 10px 40px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    margin: 30px 0px 0px 25px;
+    border-radius: 25px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+    box-shadow: -5px -4px 12px black;
+}
+
+.quotes {
+    text-align: center;
+}
+
+.quotes>h2 {
+    font-size: 35px;
+    margin-top: 18px;
+}
+
+.quotes>p {
+    font-size: 25px;
+    margin: -18px 25px 0px 25px;
+}
+
+.quotes h6 {
+    font-family: 'Pattaya', sans-serif;
+    font-size: 20px;
+    margin: 15px 0px 0px 400px;
+}
+
+.box {
+    background-color: LightBlue;
+    margin: 35px 25px 35px 25px;
+    border-radius: 25px;
+    padding-bottom: 15px;
+    box-shadow: -5px -4px 12px black;
+    /* height:935px; */
+}
+
+.biography>h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.biography ul {
+    font-size: 20px;
+    margin: 10px 70px 0px 70px;
+}
+
+.biography li {
+    padding: 8px;
+}
+
+.inspiring-quotes>h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+.inspiring-quotes>ul {
+    font-size: 20px;
+    margin: 0px 75px 20px 75px;
+}
+
+.inspiring-quotes li {
+    padding: 8px;
+}
+
+.credit {
+    margin: 15px 25px 15px 25px;
+    font-size: 15px;
+    font-family: 'Pattaya', sans-serif;
+}
